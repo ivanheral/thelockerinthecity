@@ -1,0 +1,24 @@
+{
+    "translation": {
+        "button": {
+            "show_post": "Ver Post",
+            "modify_post": "Modificar Post"
+        },
+        "label": {
+            "userId": "Id de usuario",
+            "title": "Titulo",
+            "body": "Cuerpo"
+        },
+        "placeholder": {
+            "userId": "Escriba un id de usuario",
+            "title": "Escriba un titulo",
+            "body": "Escriba un cuerpo"
+        },
+        "helper": {
+            "require": "Escriba un valor"
+        },
+        "validator": {
+            "required": "Falta rellenar el campo"
+        }
+    }
+}
